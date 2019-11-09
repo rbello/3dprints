@@ -1,0 +1,9 @@
+Wall thickness = 1.2
+Wall line count = 3
+
+Optimize wall printing order = YES
+
+Print speed = 400 mm/s
+
+Flow = 100-115%
+Initial layer flow = 100-130%
